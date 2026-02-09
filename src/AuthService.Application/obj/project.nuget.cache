@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "LdqSI48NfOA=",
+  "dgSpecHash": "r5GoWtKzHGc=",
   "success": true,
   "projectFilePath": "C:\\Users\\Informatica\\Documents\\proyecto-kinalSport\\authentication-service\\auth-service\\src\\AuthService.Application\\AuthService.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Informatica\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
+    "C:\\Users\\Informatica\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.2\\microsoft.extensions.dependencyinjection.10.0.2.nupkg.sha512",
+    "C:\\Users\\Informatica\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.2\\microsoft.extensions.dependencyinjection.abstractions.10.0.2.nupkg.sha512",
+    "C:\\Users\\Informatica\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
